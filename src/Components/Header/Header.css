@@ -1,0 +1,41 @@
+.header_main{
+    height:900px;
+    position:relative;
+    background-image:url(../../image/forshafivai-01.jpg);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: repeat;
+}
+.HeadingSize{
+    font-size: 80px;
+    font-weight: 600;
+}
+.BienvenidoRow{
+    margin-top: 70px;
+    margin-left: 35px;
+    padding: 20px!important;
+}
+.ArrowButton{
+    background-color: #fef7a7;
+    border: none;
+    padding: 10px;
+    height: 70px;
+
+}
+.buttons{
+    position: relative;
+    top: 400px;
+    right: 70px;
+}
+.leftCOl{
+    padding: 10px;
+    border-right: 2px solid gray;
+}
+.MainDivForBottom{
+    position: relative;
+    bottom: 80px;
+    background-image: linear-gradient(to left,#f4e47d , #ddbb53);
+    padding: 10px;
+    width: 90%;
+    box-shadow: 10px 10px 40px rgb(61, 61, 61);
+}

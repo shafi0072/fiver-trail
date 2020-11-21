@@ -1,0 +1,10 @@
+.menuStyling{
+    padding: 20px 40px!important;
+}
+.fullMenu{
+    display: flex;
+    justify-content: space-around;
+}
+.BlackScreen{
+    color: white!important;
+}
